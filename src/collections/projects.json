@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Cutikita",
+		"description": "Leave Application System using Laravel",
+		"image": "/assets/images/projects/cuti.png",
+		"url": "https://internship.kadangkoding.com/thoriq/pengajuan-cuti"
+	},
+	{
+		"name": "Perpusgo",
+		"description": "Library Management System using Laravel",
+		"image": "/assets/images/projects/perpusgo.png",
+		"url": "http://perpusgo.wuaze.com"
+	},
+	{
+		"name": "Magang Koding",
+		"description": "Intern Registration System using Laravel",
+		"image": "/assets/images/projects/intern.png",
+		"url": "https://internship.kadangkoding.com/thoriq/pendaftaran-magang"
+	},
+	{
+		"name": "Bitebox",
+		"description": "Android Delivery Food Application",
+		"image": "/assets/images/projects/bitebox.png",
+		"url": "javascript"
+	},
+	{
+		"name": "Cakrawala",
+		"description": "Android Multifunction Application",
+		"image": "/assets/images/projects/cakrawala.png",
+		"url": "javascript"
+	},
+	{
+		"name": "Absentra",
+		"description": "School Presence Website using React",
+		"image": "/assets/images/projects/absentra.png",
+		"url": "javascript"
+	},
+	{
+		"name": "Asek Quiz",
+		"description": "Android e-Learning & Quiz Application",
+		"image": "/assets/images/projects/asek.png",
+		"url": "javascript"
+	},
+	{
+		"name": "Travelopedia",
+		"description": "Android Travel Application",
+		"image": "/assets/images/projects/travelopedia.png",
+		"url": "https://play.google.com/store/apps/details?id=com.thrq.travelopedia2&pcampaignid=web_share"
+	},
+	{
+		"name": "Absensiku",
+		"description": "Android Presence Application ",
+		"image": "/assets/images/projects/absensiku.png",
+		"url": "https://play.google.com/store/apps/details?id=com.absensiku.app&pcampaignid=web_share"
+	}
+]

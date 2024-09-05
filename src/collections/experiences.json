@@ -1,0 +1,30 @@
+[
+	{
+		"dates": "May 2024 · Present",
+		"role": "Programmer",
+		"company": "CV Kadang Koding Indonesia",
+		"description": "Responsible for testing, documentation, and developed website",
+		"logo": "/assets/images/experiences/kki.png"
+	},
+	{
+		"dates": "October 2023 · April 2024",
+		"role": "Fullstack Developer",
+		"company": "CV Kadang Koding Indonesia",
+		"description": "Intern, developed Intern Registration, Leave Application System, Slicing Design into code and documentation system ",
+		"logo": "/assets/images/experiences/kki.png"
+	},
+	{
+		"dates": "May 2023 · May 2024",
+		"role": "Quality Assurance",
+		"company": "Nusantech",
+		"description": "Intern, involved in testing, documentation, regression of several websites",
+		"logo": "/assets/images/experiences/nusantech.ico"
+	},
+	{
+		"dates": "June 2022 · November 2022 ",
+		"role": "Software Developer",
+		"company": "Rumah Teknologi Indonesia",
+		"description": "Intern, Developed Android Application using Kodular.",
+		"logo": "/assets/images/experiences/rti.png"
+	}
+]
